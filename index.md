@@ -114,4 +114,4 @@ Jupyter Notebooks implementation of two basic concepts of tabletop roleplaying g
 ## 💡 Miscellaneous
 
 - This resume was created in Markdown and rendered by [Typora](https://typora.io/) using the [Mint](https://github.com/Y1chenYao/typora-mint-theme) theme
-- There's also an online version available at http://www.example.com
+- There's also an online version available at https://daniel-duliga.github.io/resume/index
