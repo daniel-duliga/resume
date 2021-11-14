@@ -1,10 +1,41 @@
+---
+title: Daniel Duligă - Resume
+---
+
+<style>
+    /*serif*/
+    @font-face {
+        font-family: 'Lexend';
+        font-weight: normal;
+        font-style: normal;
+        src: url('./assets/Lexend-Regular.ttf') 
+    }
+
+    @font-face {
+        font-family: 'Lexend';
+        font-weight: bold;
+        font-style: normal;
+        src: url('./assets/Lexend-Bold.ttf') 
+    }
+
+    /*monospace*/
+    @font-face {
+        font-family: 'SourceCodePro';
+        font-weight: normal;
+        font-style: normal;
+        src: local(SourceCodePro), url('./assets/SourceCodePro-Regular.ttf')
+    }
+</style>
+
+
+
 # Daniel Duligă
 
 ![](https://avatars.githubusercontent.com/u/7955492?v=4)
 
 I have over 7 years of experience as a software engineer with a focus on developing **web** solutions. I currently specialize in the development of **Angular** applications backed by **C#** web APIs and deployed in the **cloud**.
 
-I am also blessed with being passionate about what I do for a living, so I always strive to learn new technologies as well.
+I am also fortunate to be passionate about what I do for a living, so I always strive to learn new technologies as well.
 
 ---
 
@@ -81,10 +112,10 @@ My current responsibilities at SBP:
 https://github.com/daniel-duliga/write-and-roll
 `TypeScript` `HTML` `CSS` `Angular` `PWA` `Codemirror`
 
+Prototype for a creative writing web application with support for offline usage.
 
 ![](assets/write-and-roll.png)
 
-Prototype for a creative writing web application with support for offline usage:
 - Powerful markdown editor built on top of [Codemirror](https://codemirror.net/)
 - Extensible through TypeScript powered "Actions"
 - Hierarchical document management
@@ -96,18 +127,20 @@ Prototype for a creative writing web application with support for offline usage:
 https://github.com/daniel-duliga/trpg-cli
 `TypeScript` `Node.js` `Inquirer.js`
 
-![](assets/trpg-cli.png)
-
 CLI digital companion for tabletop roleplaying games.
+
+![](assets/trpg-cli.png)
 
 ### trpg-journal
 
 https://github.com/daniel-duliga/trpg-journal
 `Python` `Jupyter Notebooks`
 
+Jupyter Notebooks implementation of two basic concepts of tabletop roleplaying games: dice rolling and random table rolling.
+
 ![](assets/trpg-journal.png)
 
-Jupyter Notebooks implementation of two basic concepts of tabletop roleplaying games: dice rolling and random table rolling. Also includes material and implementations for concepts from Shawn Tomkin's [Ironsworn](https://www.ironswornrpg.com/).
+Also includes material and implementations for concepts from Shawn Tomkin's [Ironsworn](https://www.ironswornrpg.com/).
 
 ---
 
