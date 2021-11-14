@@ -101,6 +101,8 @@ My current responsibilities at SBP:
 
 ---
 
+<div style="page-break-after: always; break-after: page;"></div>
+
 ## 🚀 Personal projects
 
 ### Write and Roll
@@ -126,6 +128,8 @@ https://github.com/daniel-duliga/trpg-cli
 CLI digital companion for tabletop roleplaying games.
 
 ![](assets/trpg-cli.png)
+
+<div style="page-break-after: always; break-after: page;"></div>
 
 ### trpg-journal
 
