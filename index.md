@@ -10,14 +10,12 @@ title: Daniel Duligă - Resume
         font-style: normal;
         src: url('./assets/Lexend-Regular.ttf') 
     }
-
     @font-face {
         font-family: 'Lexend';
         font-weight: bold;
         font-style: normal;
         src: url('./assets/Lexend-Bold.ttf') 
     }
-
     /*monospace*/
     @font-face {
         font-family: 'SourceCodePro';
@@ -26,8 +24,6 @@ title: Daniel Duligă - Resume
         src: local(SourceCodePro), url('./assets/SourceCodePro-Regular.ttf')
     }
 </style>
-
-
 
 # Daniel Duligă
 
