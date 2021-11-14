@@ -1,5 +1,7 @@
 # resume
 
+Online version: https://daniel-duliga.github.io/resume/
+
 ## Credits
 
 ### favicon
