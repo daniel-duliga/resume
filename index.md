@@ -147,4 +147,4 @@ Also includes material and implementations for concepts from Shawn Tomkin's [Iro
 ## 💡 Miscellaneous
 
 - This resume was created in Markdown and rendered by [Typora](https://typora.io/) using the [Mint](https://github.com/Y1chenYao/typora-mint-theme) theme
-- There's also an online version available at https://daniel-duliga.github.io/resume/index
+- Online version: https://daniel-duliga.github.io/resume/index
