@@ -31,7 +31,7 @@ title: Daniel Duligă - Resume
 
 I have over 7 years of experience as a software engineer with a focus on developing **web** solutions. I currently specialize in the development of **Angular** applications backed by **C#** web APIs and deployed in the **cloud**.
 
-I am also fortunate to be passionate about what I do for a living, so I always strive to learn new technologies as well.
+I am fortunate to be passionate about what I do for a living, so I always strive to learn new technologies as well.
 
 ---
 
